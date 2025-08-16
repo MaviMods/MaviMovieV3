@@ -69,7 +69,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/cinemabotx')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MODSMAVI')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/mavimods2')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mavibot_support') # Support Chat Link Without https:// or @
 
@@ -159,4 +159,5 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
 #MaviMods
+
 
